@@ -1,0 +1,16 @@
+*.pyc
+*.idea
+.idea/
+.idea
+.vscode/*
+static/*
+/venv/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
