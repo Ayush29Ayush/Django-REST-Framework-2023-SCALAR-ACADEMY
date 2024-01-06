@@ -1,3 +1,5 @@
+VIDEO LINK => https://www.youtube.com/watch?v=s7aINQPGNDM&ab_channel=SCALER
+
 1. Create a venv and activate it
 2. Create a project name "core" using "django-admin startproject core"
 3. cd ./core
